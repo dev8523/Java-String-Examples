@@ -1,2 +1,2 @@
 # Java-String-Examples
-This has the examples to cover up String in Java.
+This repository has all the examples to cover up String in Java.
