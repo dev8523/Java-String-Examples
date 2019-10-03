@@ -1,2 +1,2 @@
 # Java-String-Examples
-This contains every methods present in String and classes.
+This has the examples to cover up String in Java.
